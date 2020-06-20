@@ -64,6 +64,9 @@
       <sprite>sprites\copyright</sprite>
       <sprite>sprites\creditssequence</sprite>
       <sprite>sprites\mainback</sprite>
+      <sprite>sprites\koti</sprite>
+      <sprite>sprites\hubz</sprite>
+      <sprite>sprites\killcube_ui</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -176,6 +179,12 @@
       </objects>
       <object>objects\obj_copyright</object>
       <object>objects\mainbackground</object>
+      <objects name="skins">
+        <object>objects\obj_cubeyskinsel</object>
+        <object>objects\obj_kotiskinsel</object>
+        <object>objects\obj_hubzskinsel</object>
+        <object>objects\obj_killcubeskinsel</object>
+      </objects>
     </objects>
     <objects name="boss">
       <object>objects\fireballtoplayershooter</object>
