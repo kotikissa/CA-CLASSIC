@@ -25,9 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if global.bosstriggered = 0{
-x = obj_playercube.x
-}
+            <string>x = obj_playercube.x;
 </string>
           </argument>
         </arguments>
