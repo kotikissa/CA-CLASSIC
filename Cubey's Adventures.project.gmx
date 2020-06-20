@@ -67,6 +67,8 @@
       <sprite>sprites\koti</sprite>
       <sprite>sprites\hubz</sprite>
       <sprite>sprites\killcube_ui</sprite>
+      <sprite>sprites\spr_skinsbutton</sprite>
+      <sprite>sprites\spr_backbutton</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -174,6 +176,8 @@
       <object>objects\titlescreen</object>
       <object>objects\obj_cursor</object>
       <object>objects\startbutton</object>
+      <object>objects\obj_backbutton</object>
+      <object>objects\obj_skinsbutton</object>
       <objects name="deprecated">
         <object>objects\pressentertostart</object>
       </objects>
@@ -200,6 +204,7 @@
     <rooms name="ui">
       <room>rooms\title</room>
       <room>rooms\room_options</room>
+      <room>rooms\skins</room>
       <room>rooms\loading</room>
     </rooms>
     <rooms name="rooms">
