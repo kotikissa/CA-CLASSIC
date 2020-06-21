@@ -69,6 +69,7 @@
       <sprite>sprites\killcube_ui</sprite>
       <sprite>sprites\spr_skinsbutton</sprite>
       <sprite>sprites\spr_backbutton</sprite>
+      <sprite>sprites\spr_skinstext</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -189,6 +190,7 @@
         <object>objects\obj_hubzskinsel</object>
         <object>objects\obj_killcubeskinsel</object>
       </objects>
+      <object>objects\obj_skinstext</object>
     </objects>
     <objects name="boss">
       <object>objects\fireballtoplayershooter</object>
@@ -229,7 +231,7 @@
       <room>rooms\r18</room>
       <room>rooms\r8</room>
       <room>rooms\r20</room>
-      <room>rooms\r21</room>
+      <room>rooms\finalmessage</room>
       <room>rooms\room34</room>
     </rooms>
     <room>rooms\diealog</room>
